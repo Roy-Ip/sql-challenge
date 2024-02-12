@@ -6,4 +6,6 @@ I have uploaded the following:
   - EmployeeSQL - Queries:  it is SQL file for the queries required.
   - ERD (with details) - it is the Entity Relationship Diagram.
   - ERD (without details) - it is the Entity Relationship Diagram without showing the data type.
-  - data folder - it contains all the csv data file used to imported into the tables created. 
+  - data folder - it contains all the csv data file used to imported into the tables created.
+
+![alt text](http://url/to/img.png](https://github.com/Roy-Ip/sql-challenge/blob/main/ERD%20(without%20details).png)https://github.com/Roy-Ip/sql-challenge/blob/main/ERD%20(without%20details).png)
