@@ -8,6 +8,6 @@ I have uploaded the following:
   - ERD (without details) - it is the Entity Relationship Diagram without showing the data type.
   - data folder - it contains all the csv data file used to imported into the tables created.
 
-
+<br/><br/>
 
 ![alt text](https://github.com/Roy-Ip/sql-challenge/blob/main/ERD%20(without%20details).png)
