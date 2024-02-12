@@ -9,5 +9,5 @@ I have uploaded the following:
   - data folder - it contains all the csv data file used to imported into the tables created.
 
 <br/><br/>
-#Entity Relationship Diagram
+##Entity Relationship Diagram
 ![alt text](https://github.com/Roy-Ip/sql-challenge/blob/main/ERD%20(without%20details).png)
