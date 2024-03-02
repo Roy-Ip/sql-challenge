@@ -4,8 +4,7 @@ Monash Data Analytics Bootcamp - Module 9 Assignment
 I have uploaded the following:
   - EmployeeSQL - Table Schemata - it is the SQL file to create tables (departments, dept_emp, dept_manager, employees, salaries, titles) in the EmployeeSQL database.
   - EmployeeSQL - Queries:  it is SQL file for the queries required.
-  - ERD (with details) - it is the Entity Relationship Diagram.
-  - ERD (without details) - it is the Entity Relationship Diagram without showing the data type.
+  - ERD (QuickDBD) - it is the Entity Relationship Diagram.
   - data folder - it contains all the csv data files used to import into the tables created.
 
 <br/><br/>
